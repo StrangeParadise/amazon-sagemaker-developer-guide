@@ -184,7 +184,7 @@ $ aws --region us-east-1 sagemaker create-labeling-job \
         },
         "TaskDescription": "Select all labels that apply to the images shown",
         "MaxConcurrentTaskCount": 1000,
-        "TaskTitle": "Multi-label image classification task",,
+        "TaskTitle": "Multi-label image classification task",
         "TaskKeywords": [
             "Images",
             "Classification",
